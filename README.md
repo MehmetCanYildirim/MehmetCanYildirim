@@ -4,9 +4,9 @@
 <h1 align="left">Hi 👋, I'm Mehmet Can.</h1>
 <h3 align="left">📚 MSc Biomedical Engineer Candidate at İstanbul Technical University</h3>
 
-- 🔭 I’m currently working on **Medical Image Segmentation.**
+- 🔭 I’m currently working on **Medical Image Segmentation and Classification.**
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision** 
+- 🌱 I’m currently learning **Data Science and Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MehmetCanYildirim/Projects](https://github.com/MehmetCanYildirim/Projects)
 
