@@ -1,10 +1,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=MehmetCanYildirim&show_icons=true">
 
 
+<h3 align="left">📚 MSc Data Science at Ozyegin University</h3>
 <h1 align="left">Hi 👋, I'm Mehmet Can.</h1>
-<h3 align="left">📚 MSc Biomedical Engineer Candidate at İstanbul Technical University</h3>
 
-- 🔭 I’m currently working on **Medical Image Segmentation and Classification.**
+- 🔭 I’m currently working on **Bias Detection in LLMs.**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning** 
 
