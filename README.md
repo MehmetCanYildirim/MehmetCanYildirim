@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bias Detection in LLMs.**
 
-- 🌱 I’m currently learning **Data Science and Machine Learning** 
+- 🌱 I’m currently learning **Data Science, Machine Learning, and Generative AI** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MehmetCanYildirim/Projects](https://github.com/MehmetCanYildirim/Projects)
 
